@@ -1,4 +1,4 @@
-# cora_rider_app
+# my_first_app
 
 A new Flutter project.
 
